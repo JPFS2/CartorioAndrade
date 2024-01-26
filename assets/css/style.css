@@ -673,7 +673,8 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Cta --------------------------------------------------------------*/
+# Cta
+--------------------------------------------------------------*/
 .cta {
   background: url("../img/fund.jpg") fixed center center;
   background-size: cover;
@@ -705,8 +706,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #47b2e4;
-  border: 2px solid #47b2e4;
+  background: #daa520;
+  border: 2px solid #daa520;
 }
 
 @media (max-width: 1024px) {
@@ -722,6 +723,7 @@ section {
     justify-content: flex-end;
   }
 }
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
